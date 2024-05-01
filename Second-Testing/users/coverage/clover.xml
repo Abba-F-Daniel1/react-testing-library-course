@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1714423430608" clover="3.2.0">
+  <project timestamp="1714423430608" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4" elements="15" coveredelements="15" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="UserForm.jsx" path="C:\Users\Abba.Daniel\Downloads\React-Testing-Course\Second-Testing\users\src\UserForm.jsx">
+      <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="22" type="stmt"/>
+      <line num="5" count="22" type="stmt"/>
+      <line num="7" count="22" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="22" type="stmt"/>
+      <line num="24" count="4" type="stmt"/>
+      <line num="33" count="14" type="stmt"/>
+    </file>
+  </project>
+</coverage>
